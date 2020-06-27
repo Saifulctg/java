@@ -1,0 +1,20 @@
+.birthday{
+    text-align: center;
+ }
+.section{
+    float: left;
+    background-color: #7bc3f3;
+   
+    font-size: 20px;
+    width: calc(20% - 30px);
+    padding: 15px;
+    margin: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    flex-wrap: nowrap;
+}
+h2{
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+}
